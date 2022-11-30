@@ -12,6 +12,8 @@ iCalendarEPESI
 Synchronizacja kalendarza EPESI z kalendarzem Google
 https://github.com/tmlynar/iCalendarEPESI
 
+Telemarketing System with Integrated Dialer and Web Phone for managing outbound sales calls
+by Dine Villar https://github.com/dinevillar
 https://github.com/dinevillar/epesi-telemarketing
 
 Mileage tracker for epesi
