@@ -2,6 +2,12 @@
 
 ## Collection of Awesome Epesi add on modules
 
+### RasPiEsi
+
+The World's Smallest Open Source ERP Server with Epesi BIM on Raspberry Pi Zero
+
+### https://github.com/jtylek/RasPiEsi
+
 ### Epesi CRM
 
 Epesi BIM is Free and Open Source [FOSS], lightweight Customer Relationship Management [CRM] application and easy to use Kickstarter for building cloud native Enterprise Resource Planning [ERP] applications. Epesi provides Rapid Application Development [RAD] and low-code and no-code tools for agile development.
